@@ -2,13 +2,13 @@ nav:
   Home: /
   About: /about/
   Writing: /posts/
-  Projects: http://github.com/sergodeeva
+  Projects: http://github.com/lutefu
 
-projects_url: http://github.com/sergodeeva
+projects_url: http://github.com/lutefu
 
 customize:
     gravatar:
-        email: 
+        email: lutefu@yeah.net
     logo:
         enabled: true
         width: 50
@@ -49,3 +49,4 @@ miscellaneous:
         fb_admins:
         twitter_id:
         google_plus:
+        wechat_id: crookshanksj
